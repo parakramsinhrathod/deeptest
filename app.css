@@ -1,0 +1,49 @@
+.brand-title{
+    font-weight: bold;
+}
+.navbar{
+    margin-bottom: 20px;
+}
+
+/* .test{
+    height: 50vh;
+    width: 100%;
+} */
+
+.imp{
+    top:400px;
+    display: inline;
+    margin-top: 100px;
+}
+
+
+.main-section{
+    padding-top: 17px;
+    width: 100%;
+    background-color:#1d1d1d;
+    color:rgb(218, 218, 218);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.wrap{
+
+    box-sizing: border-box;
+    padding: 5px;
+
+}
+.figure{
+    border:5px solid #fff;
+}
+
+
+footer{
+    background-color: rgb(8, 0, 0);
+    color:rgb(173, 171, 171);
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: ;
+}
+
